@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+ListCreate/ListCreate.vcxproj
+ListCreate/ListCreate.vcxproj.filters
+ListCreate.sln
